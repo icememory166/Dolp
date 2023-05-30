@@ -1,1 +1,1 @@
-# Dolp är ett subtheme för drupal themet Barrio
+# Dolp är ett subtheme för Drupal themet Barrio
