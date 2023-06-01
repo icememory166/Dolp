@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Bootstrap Barrio Subtheme.
+
+dolp.settings:
+  type: theme.settings
+  label: 'Dolp settings'
